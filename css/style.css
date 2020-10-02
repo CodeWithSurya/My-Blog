@@ -69,10 +69,14 @@ width: 75%;
 
 
 footer{
+	
 	background-color: #dddddd;
 	padding: 20px;
 	text-align: center;
 	margin-top: 20px;
+}
+footer img{
+	width: 100%;
 }
 
 /*responsive */
@@ -87,4 +91,10 @@ footer{
 h6{
 	color: red;
 	font-size: 20px;
+}
+ 
+i{
+	text-align: center;
+	/* margin-right: 15px; */
+	font-size: 30px; color: lightcoral;
 }
