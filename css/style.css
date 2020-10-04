@@ -93,6 +93,16 @@ footer img{
 	font-size: 2rem;
 	text-align: center;
 }
+#m{
+	color: rgb(3, 185, 49);
+	font-size: 1rem;
+	text-align: center;
+}
+ #n{
+	color: rgba(202, 85, 49, 0.911);
+	font-size: 1.5rem;
+	text-align: center;
+}
  
 i{
 	text-align: center;
